@@ -1,1 +1,1 @@
-# 24001116-km7-muk-android-ch1
+# 24001116-STNRGY 7-muk-android-ch1
