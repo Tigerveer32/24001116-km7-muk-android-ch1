@@ -1,6 +1,6 @@
 fun main() {
 
-    PiramidaBintang().show(8)
+    bintangPiramida().show(8)
     println()
 
     PiramidaTerbalikBintang().show(8)
